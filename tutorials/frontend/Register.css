@@ -67,7 +67,8 @@ form .data{
     padding: 15px;
     min-width: 40px;
     z-index: 1;
-    
+    margin-top: 5.3px;
+    margin-right: 4px;
 }
 
 form .data input{
